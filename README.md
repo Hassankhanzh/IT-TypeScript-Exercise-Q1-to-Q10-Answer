@@ -1,1 +1,1 @@
-# IT-TypeScript-Exercise-Q1-to-Q10-Answer
+# IT-TypeScript-Exercise-Q1-to-Q45-Answer
